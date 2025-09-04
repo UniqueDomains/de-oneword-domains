@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DE one-word domains still available to buy.
 
-This dataset contains 1,440 .DE one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,441 .DE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=description.top) (1,439) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
