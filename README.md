@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DE one-word domains still available to buy.
 
-This dataset contains 1,506 .DE one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,514 .DE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=description.top) (1,439) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -37,7 +37,7 @@ If you want to search & filters the complete database of [.DE one word domains](
 | abhorrent.de  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.de    | resell    | 106      | 5%     | 7      |           |         |         |
 | abient.de     | available | 54       | 1%     | 6      |           |         |         |
-| ability.de    | resell    | 92       | null%  | 7      |           |         |         |
+| ability.de    | resell    | 92       | 18%    | 7      |           |         |         |
 | abkhas.de     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.de  | available | 78       | 1%     | 9      |           |         |         |
 | abkhaz.de     | available | 82       | 2%     | 6      |           |         |         |
