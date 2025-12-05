@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DE one-word domains still available to buy.
 
-This dataset contains 1,547 .DE one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,545 .DE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=description.top) (1,552) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.DE one word domains](
 | abenaki.de    | available | 82       | 3%     | 7      |           |         |         |
 | aberdonian.de | available | 68       | 1%     | 10     |           |         |         |
 | abeyant.de    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.de  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.de  | available | 54       | 3%     | 9      |           |         |         |
 | abient.de     | available | 54       | 1%     | 6      |           |         |         |
 | ability.de    | resell    | 92       | 18%    | 7      |           |         |         |
 | abkhas.de     | available | 68       | 1%     | 6      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.DE one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
