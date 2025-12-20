@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DE one-word domains still available to buy.
 
-This dataset contains 2,786 .DE one word domains with availability, attractiveness and demand scores.
+This dataset contains 2,840 .DE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=description.top) (2,778) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.DE one word domains](
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/de-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/de-oneword-domains/blob/main/de.csv"><b>⬇️ CSV (2.79K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/de-oneword-domains/blob/main/de.json"><b>⬇️ JSON (2.79K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/de-oneword-domains/blob/main/de.csv"><b>⬇️ CSV (2.84K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/de-oneword-domains/blob/main/de.json"><b>⬇️ JSON (2.84K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (2.78K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.de      | available | 50       | 1%     | 9      |           |         |         |
-| abaft.de          | available | 43       | 2%     | 5      |           |         |         |
-| abashed.de        | resell    | 60       | 2%     | 7      |           |         |         |
-| abatable.de       | available | 54       | 1%     | 8      |           |         |         |
-| abbatial.de       | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.de      | available | 50       | 1%     | 9      |           |         |         |
-| abdominous.de     | available | 56       | 1%     | 10     |           |         |         |
-| abducens.de       | available | 54       | 1%     | 8      |           |         |         |
-| abducent.de       | available | 68       | 1%     | 8      |           |         |         |
-| abducting.de      | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.de        | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.de     | available | 68       | 1%     | 10     |           |         |         |
-| abeyant.de        | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.de      | available | 54       | 1%     | 9      |           |         |         |
-| abient.de         | available | 54       | 1%     | 6      |           |         |         |
-| ability.de        | resell    | 92       | 15%    | 7      |           |         |         |
-| abkhas.de         | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.de      | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.de         | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.de      | available | 78       | 1%     | 9      |           |         |         |
-| ablated.de        | available | 52       | 2%     | 7      |           |         |         |
-| abnaki.de         | available | 68       | 2%     | 6      |           |         |         |
-| abomasal.de       | available | 50       | 1%     | 8      |           |         |         |
-| abominable.de     | available | 52       | 3%     | 10     |           |         |         |
-| aborticide.de     | available | 50       | 1%     | 10     |           |         |         |
-| abortive.de       | resell    | 90       | 1%     | 8      |           |         |         |
-| aboulic.de        | available | 52       | 2%     | 7      |           |         |         |
-| abovecited.de     | available | 58       | 1%     | 11     |           |         |         |
-| abovementioned.de | available | 60       | 1%     | 15     |           |         |         |
-| abovenamed.de     | available | 58       | 1%     | 11     |           |         |         |
+| Domain        | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| abactinal.de  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.de      | available | 43       | 2%     | 5      |           |         |         |
+| abashed.de    | resell    | 60       | 2%     | 7      |           |         |         |
+| abatable.de   | available | 54       | 1%     | 8      |           |         |         |
+| abbatial.de   | available | 50       | 1%     | 8      |           |         |         |
+| abdicable.de  | available | 50       | 1%     | 9      |           |         |         |
+| abdominous.de | available | 56       | 1%     | 10     |           |         |         |
+| abducens.de   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.de   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.de  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.de    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.de | available | 68       | 1%     | 10     |           |         |         |
+| abeyant.de    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.de  | available | 54       | 1%     | 9      |           |         |         |
+| abient.de     | available | 54       | 1%     | 6      |           |         |         |
+| ability.de    | resell    | 92       | 15%    | 7      |           |         |         |
+| abkhas.de     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.de  | available | 78       | 1%     | 9      |           |         |         |
+| abkhaz.de     | available | 82       | 2%     | 6      |           |         |         |
+| abkhazian.de  | available | 78       | 1%     | 9      |           |         |         |
+| ablated.de    | available | 52       | 2%     | 7      |           |         |         |
+| abnaki.de     | available | 68       | 2%     | 6      |           |         |         |
+| abomasal.de   | available | 50       | 1%     | 8      |           |         |         |
+| abominable.de | available | 52       | 3%     | 10     |           |         |         |
+| aborticide.de | available | 50       | 1%     | 10     |           |         |         |
+| abortive.de   | resell    | 90       | 1%     | 8      |           |         |         |
+| aboulic.de    | available | 52       | 2%     | 7      |           |         |         |
+| abouteast.de  | available | 58       | 1%     | 10     |           |         |         |
+| aboutship.de  | available | 70       | 1%     | 10     |           |         |         |
+| abovecited.de | available | 58       | 1%     | 11     |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/de-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/de-oneword-domains/blob/main/de.csv"><b>⬇️ CSV (2.79K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/de-oneword-domains/blob/main/de.json"><b>⬇️ JSON (2.79K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/de-oneword-domains/blob/main/de.csv"><b>⬇️ CSV (2.84K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/de-oneword-domains/blob/main/de.json"><b>⬇️ JSON (2.84K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (2.78K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.DE one word domains](
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
