@@ -64,25 +64,25 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| mousearound.de       | available | $19.99    | —             | 57             | 22     | 12     | name.com  |
+| FrenchRepublic.de    | available | $19.99    | —             | 58             | 57     | 15     | name.com  |
 | regions.de           | resell    | —         | —             | 64             | 59     | 7      | —         |
-| votingage.de         | available | $19.99    | —             | 52             | 18     | 10     | name.com  |
+| mousearound.de       | available | $19.99    | —             | 57             | 22     | 12     | name.com  |
 | popup.de             | resell    | —         | —             | 84             | 29     | 6      | —         |
-| backtosquareone.de   | available | $19.99    | —             | 58             | 16     | 18     | name.com  |
+| votingage.de         | available | $19.99    | —             | 52             | 18     | 10     | name.com  |
 | blackdiamond.de      | resell    | —         | —             | 70             | 29     | 13     | —         |
-| getthebetterof.de    | available | $19.99    | —             | 69             | 15     | 17     | name.com  |
+| backtosquareone.de   | available | $19.99    | —             | 58             | 16     | 18     | name.com  |
 | diamonds.de          | resell    | —         | —             | 89             | 27     | 8      | —         |
-| naturestudent.de     | available | $19.99    | —             | 46             | 15     | 14     | name.com  |
+| getthebetterof.de    | available | $19.99    | —             | 69             | 15     | 17     | name.com  |
 | full.de              | resell    | —         | —             | 68             | 26     | 4      | —         |
-| naturewriter.de      | available | $19.99    | —             | 48             | 14     | 13     | name.com  |
+| naturestudent.de     | available | $19.99    | —             | 46             | 15     | 14     | name.com  |
 | pops.de              | resell    | —         | —             | 74             | 24     | 4      | —         |
-| bowlofcherries.de    | available | $19.99    | —             | 68             | 13     | 16     | name.com  |
+| naturewriter.de      | available | $19.99    | —             | 48             | 14     | 13     | name.com  |
 | stadia.de            | resell    | —         | —             | 66             | 22     | 6      | —         |
-| givesomethingatry.de | available | $19.99    | —             | 68             | 12     | 20     | name.com  |
+| bowlofcherries.de    | available | $19.99    | —             | 68             | 13     | 16     | name.com  |
 | results.de           | resell    | —         | —             | 59             | 22     | 7      | —         |
-| givesomeoneabreak.de | available | $19.99    | —             | 68             | 12     | 20     | name.com  |
+| givesomethingatry.de | available | $19.99    | —             | 68             | 12     | 20     | name.com  |
 | phones.de            | resell    | —         | —             | 76             | 19     | 6      | —         |
-| violetgold.de        | available | $19.99    | —             | 72             | 11     | 11     | name.com  |
+| givesomeoneabreak.de | available | $19.99    | —             | 68             | 12     | 20     | name.com  |
 | houses.de            | resell    | —         | —             | 66             | 18     | 6      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
