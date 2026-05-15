@@ -1,10 +1,10 @@
-# Available .DE One-Word Domains (4,095)
+# Available .DE One-Word Domains (4,140)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C095%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C140%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .de one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **4,095 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,140 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 4,095 domains · **Median ask:** $18.12 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 4,140 domains · **Median ask:** $18.00 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/de`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| FrenchRepublic.de    | available | $19.99    | —             | 58             | 57     | 15     | name.com  |
-| regions.de           | resell    | —         | —             | 64             | 59     | 7      | —         |
-| mousearound.de       | available | $19.99    | —             | 57             | 22     | 12     | name.com  |
-| popup.de             | resell    | —         | —             | 84             | 29     | 6      | —         |
-| votingage.de         | available | $19.99    | —             | 52             | 18     | 10     | name.com  |
-| blackdiamond.de      | resell    | —         | —             | 70             | 29     | 13     | —         |
-| backtosquareone.de   | available | $19.99    | —             | 58             | 16     | 18     | name.com  |
-| diamonds.de          | resell    | —         | —             | 89             | 27     | 8      | —         |
-| getthebetterof.de    | available | $19.99    | —             | 69             | 15     | 17     | name.com  |
-| full.de              | resell    | —         | —             | 68             | 26     | 4      | —         |
-| naturestudent.de     | available | $19.99    | —             | 46             | 15     | 14     | name.com  |
-| pops.de              | resell    | —         | —             | 74             | 24     | 4      | —         |
-| naturewriter.de      | available | $19.99    | —             | 48             | 14     | 13     | name.com  |
-| stadia.de            | resell    | —         | —             | 66             | 22     | 6      | —         |
-| bowlofcherries.de    | available | $19.99    | —             | 68             | 13     | 16     | name.com  |
-| results.de           | resell    | —         | —             | 59             | 22     | 7      | —         |
-| givesomethingatry.de | available | $19.99    | —             | 68             | 12     | 20     | name.com  |
-| phones.de            | resell    | —         | —             | 76             | 19     | 6      | —         |
-| givesomeoneabreak.de | available | $19.99    | —             | 68             | 12     | 20     | name.com  |
-| houses.de            | resell    | —         | —             | 66             | 18     | 6      | —         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| FrenchRepublic.de | available | $19.99    | —             | 58             | 57     | 15     | name.com  |
+| regions.de        | resell    | —         | —             | 64             | 59     | 7      | —         |
+| StAugustine.de    | available | $5.99     | $5.99         | 64             | 7      | 13     | namesilo  |
+| popup.de          | resell    | —         | —             | 84             | 29     | 6      | —         |
+| gooutsi.de        | available | $5.99     | $5.99         | 84             | 6      | 10     | namesilo  |
+| full.de           | resell    | —         | —             | 68             | 26     | 4      | —         |
+| StFrancis.de      | available | $5.99     | $5.99         | 72             | 6      | 11     | namesilo  |
+| pops.de           | resell    | —         | —             | 74             | 24     | 4      | —         |
+| howso.de          | available | $19.99    | —             | 58             | 6      | 6      | name.com  |
+| stadia.de         | resell    | —         | —             | 66             | 22     | 6      | —         |
+| StCharles.de      | available | $5.99     | $5.99         | 70             | 5      | 11     | namesilo  |
+| results.de        | resell    | —         | —             | 59             | 22     | 7      | —         |
+| howareyoudoing.de | available | $19.99    | —             | 58             | 5      | 17     | name.com  |
+| diamonds.de       | resell    | —         | —             | 89             | 19     | 8      | —         |
+| howareyougoing.de | available | $19.99    | —             | 52             | 5      | 17     | name.com  |
+| phones.de         | resell    | —         | —             | 76             | 19     | 6      | —         |
+| freshasadaisy.de  | available | $19.99    | —             | 48             | 5      | 16     | name.com  |
+| blackdiamond.de   | resell    | —         | —             | 70             | 19     | 13     | —         |
+| coffeeand.de      | available | $19.99    | —             | 76             | 4      | 10     | name.com  |
+| houses.de         | resell    | —         | —             | 66             | 18     | 6      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 4,095 live domains                         |
+| 1,000-row public sample | 4,140 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DE One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
