@@ -1,10 +1,10 @@
-# Available .DE One-Word Domains (4,260)
+# Available .DE One-Word Domains (4,292)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C260%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C292%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .de one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **4,260 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,292 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 4,260 domains · **Median ask:** $17.57 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 4,292 domains · **Median ask:** $17.48 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/de`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | pops.de                | resell    | —         | —             | 74             | 24     | 4      | —         |
 | instri.de              | available | $5.99     | $5.99         | 72             | 5      | 9      | namesilo  |
 | stadia.de              | resell    | —         | —             | 66             | 22     | 6      | —         |
-| StCharles.de           | available | $5.99     | $5.99         | 70             | 5      | 11     | namesilo  |
-| results.de             | resell    | —         | —             | 59             | 22     | 7      | —         |
 | coffeeand.de           | available | $19.99    | —             | 76             | 4      | 10     | name.com  |
-| phones.de              | resell    | —         | —             | 76             | 19     | 6      | —         |
+| results.de             | resell    | —         | —             | 59             | 22     | 7      | —         |
 | comewith.de            | available | $19.99    | —             | 72             | 4      | 9      | name.com  |
-| blackdiamond.de        | resell    | —         | —             | 70             | 19     | 13     | —         |
+| phones.de              | resell    | —         | —             | 76             | 19     | 6      | —         |
 | justtheticket.de       | available | $19.99    | —             | 66             | 4      | 15     | name.com  |
+| blackdiamond.de        | resell    | —         | —             | 70             | 19     | 13     | —         |
+| getonwithit.de         | available | $19.99    | —             | 51             | 4      | 14     | name.com  |
 | houses.de              | resell    | —         | —             | 66             | 18     | 6      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 4,260 live domains                         |
+| 1,000-row public sample | 4,292 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
