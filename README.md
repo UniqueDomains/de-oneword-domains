@@ -1,10 +1,10 @@
-# Available .DE One-Word Domains (4,292)
+# Available .DE One-Word Domains (4,311)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C292%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C311%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .de one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **4,292 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,311 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 4,292 domains · **Median ask:** $17.48 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 4,311 domains · **Median ask:** $15.78 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/de`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/de`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DE one-word domain ca
 
 ### Files
 
-- `de.csv` — public CSV extract (1,000 rows)
-- `de.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `de.csv`, public CSV extract (1,000 rows)
+- `de.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| FrenchRepublic.de      | available | $19.99    | —             | 58             | 57     | 15     | name.com  |
-| regions.de             | resell    | —         | —             | 64             | 59     | 7      | —         |
-| grassrootsdemocracy.de | premium   | —         | —             | 66             | 1      | 20     | —         |
-| StAugustine.de         | available | $5.99     | $5.99         | 64             | 7      | 13     | namesilo  |
-| popup.de               | resell    | —         | —             | 84             | 28     | 6      | —         |
-| maketheheadlines.de    | premium   | —         | —             | 72             | 0      | 18     | —         |
-| gooutsi.de             | available | $5.99     | $5.99         | 84             | 6      | 10     | namesilo  |
-| full.de                | resell    | —         | —             | 68             | 26     | 4      | —         |
-| StFrancis.de           | available | $5.99     | $5.99         | 72             | 6      | 11     | namesilo  |
-| pops.de                | resell    | —         | —             | 74             | 24     | 4      | —         |
-| instri.de              | available | $5.99     | $5.99         | 72             | 5      | 9      | namesilo  |
-| stadia.de              | resell    | —         | —             | 66             | 22     | 6      | —         |
-| coffeeand.de           | available | $19.99    | —             | 76             | 4      | 10     | name.com  |
-| results.de             | resell    | —         | —             | 59             | 22     | 7      | —         |
-| comewith.de            | available | $19.99    | —             | 72             | 4      | 9      | name.com  |
-| phones.de              | resell    | —         | —             | 76             | 19     | 6      | —         |
-| justtheticket.de       | available | $19.99    | —             | 66             | 4      | 15     | name.com  |
-| blackdiamond.de        | resell    | —         | —             | 70             | 19     | 13     | —         |
-| getonwithit.de         | available | $19.99    | —             | 51             | 4      | 14     | name.com  |
-| houses.de              | resell    | —         | —             | 66             | 18     | 6      | —         |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| cxxv.de  | available | $19.99    | $19.99        | medium         | low    | 4      | name.com  |
+| fly.de   | resell    | —         | —             | high           | low    | 3      | —         |
+| abaft.de | available | $19.99    | $19.99        | medium         | low    | 5      | name.com  |
+| wet.de   | resell    | —         | —             | high           | high   | 3      | —         |
+| acned.de | available | $19.99    | $19.99        | medium         | low    | 5      | name.com  |
+| acid.de  | resell    | —         | —             | high           | low    | 4      | —         |
+| algid.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| acne.de  | resell    | —         | —             | medium         | low    | 4      | —         |
+| balky.de | available | $19.99    | $19.99        | medium         | low    | 5      | name.com  |
+| aged.de  | resell    | —         | —             | high           | low    | 4      | —         |
+| clxxv.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| alky.de  | resell    | —         | —             | medium         | low    | 4      | —         |
+| lxxii.de | available | $19.99    | $19.99        | medium         | low    | 5      | name.com  |
+| aunt.de  | resell    | —         | —             | high           | high   | 4      | —         |
+| lxxiv.de | available | $19.99    | $19.99        | medium         | low    | 5      | name.com  |
+| bulb.de  | resell    | —         | —             | high           | low    | 4      | —         |
+| lxxxi.de | available | $19.99    | $19.99        | medium         | low    | 5      | name.com  |
+| died.de  | resell    | —         | —             | medium         | low    | 4      | —         |
+| lxxxv.de | available | $19.99    | $19.99        | medium         | low    | 5      | name.com  |
+| ever.de  | resell    | —         | —             | high           | medium | 4      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 4,292 live domains                         |
+| 1,000-row public sample | 4,311 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by one thing: the .de extension. That makes the set relevant for buyers who want German-market signaling, a country-code identity, or a short, memorable word on a recognized European namespace. The sample names range from broad dictionary words like repeat.de, neutral.de, and love.de to more specific terms like printable.de and grandkid.de. When comparing these domains, focus on word familiarity, cross-language readability, and whether the term feels commercially usable in German or international contexts. With a median ask of 18.26, price may be accessible, but fit still matters more than simply buying the cheapest name.
+Every domain in this selection uses Germany's .DE extension paired with a single word or tight compound — names like coffeecupful.de, midmorning.de, and dogsick.de show the range, from literal and descriptive to playful and abstract. With a median ask near $15.78, most of these names are priced for quick acquisition rather than negotiation. When comparing options here, weigh spelling simplicity, pronounceability in German and English, and whether the word carries any existing trademark or brand association before committing.
 
-- All domains in this selection use the .de country-code extension
-- Sample terms range from broad words to niche dictionary terms
-- Median ask is 18.26, so cheap does not guarantee strong fit
-- Check language fit, memorability, and trademark exposure
+- 4,311 one-word .DE domain names in this selection
+- Median ask near $15.78 — accessible entry pricing
+- Mix of playful, descriptive, and abstract one-word names
+- Updated daily to reflect current .DE availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
