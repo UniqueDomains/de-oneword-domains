@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .de one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 6,874 domains · **Median ask:** $9.77 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/de`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| cxxv.de  | available | $5.99     | $5.99         | low            | low    | 4      | namesilo  |
-| fly.de   | resell    | —         | —             | high           | low    | 3      | —         |
-| abaft.de | available | $5.99     | $5.99         | low            | low    | 5      | namesilo  |
-| wet.de   | resell    | —         | —             | high           | high   | 3      | —         |
-| acned.de | available | $6.98     | $9.88         | low            | low    | 5      | namecheap |
-| acid.de  | resell    | —         | —             | low            | low    | 4      | —         |
-| algid.de | available | $5.99     | $5.99         | low            | low    | 5      | namesilo  |
-| acne.de  | resell    | —         | —             | medium         | low    | 4      | —         |
-| balky.de | available | $19.99    | $19.99        | medium         | low    | 5      | name.com  |
-| aged.de  | resell    | —         | —             | high           | low    | 4      | —         |
-| clxxv.de | available | $5.99     | $5.99         | low            | low    | 5      | namesilo  |
-| alky.de  | resell    | —         | —             | medium         | low    | 4      | —         |
-| lxxii.de | available | $6.98     | $9.88         | low            | low    | 5      | namecheap |
-| aunt.de  | resell    | —         | —             | high           | high   | 4      | —         |
-| lxxiv.de | available | $6.98     | $9.88         | low            | low    | 5      | namecheap |
-| bulb.de  | resell    | —         | —             | high           | low    | 4      | —         |
-| lxxxi.de | available | $6.98     | $9.88         | low            | low    | 5      | namecheap |
-| died.de  | resell    | —         | —             | medium         | low    | 4      | —         |
-| lxxxv.de | available | $6.98     | $9.88         | low            | low    | 5      | namecheap |
-| ever.de  | resell    | —         | —             | high           | medium | 4      | —         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| there.de     | resell    | —         | —             | high           | low    | 5      | —         |
+| chocolate.de | resell    | —         | —             | high           | low    | 9      | —         |
+| firm.de      | resell    | —         | —             | high           | low    | 4      | —         |
+| spiral.de    | resell    | —         | —             | high           | low    | 6      | —         |
+| pity.de      | resell    | —         | —             | high           | low    | 4      | —         |
+| slope.de     | resell    | —         | —             | high           | low    | 5      | —         |
+| adios.de     | resell    | —         | —             | high           | low    | 5      | —         |
+| praise.de    | resell    | —         | —             | high           | low    | 6      | —         |
+| laugh.de     | resell    | —         | —             | high           | low    | 5      | —         |
+| cxxv.de      | available | $5.99     | $5.99         | low            | low    | 4      | namesilo  |
+| fly.de       | resell    | —         | —             | high           | low    | 3      | —         |
+| abaft.de     | available | $5.99     | $5.99         | low            | low    | 5      | namesilo  |
+| wet.de       | resell    | —         | —             | high           | high   | 3      | —         |
+| acned.de     | available | $6.98     | $9.88         | low            | low    | 5      | namecheap |
+| acid.de      | resell    | —         | —             | low            | low    | 4      | —         |
+| algid.de     | available | $5.99     | $5.99         | low            | low    | 5      | namesilo  |
+| acne.de      | resell    | —         | —             | medium         | low    | 4      | —         |
+| balky.de     | available | $19.99    | $19.99        | medium         | low    | 5      | name.com  |
+| aged.de      | resell    | —         | —             | high           | low    | 4      | —         |
+| clxxv.de     | available | $5.99     | $5.99         | low            | low    | 5      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DE One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DE One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
