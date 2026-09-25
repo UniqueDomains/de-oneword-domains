@@ -1,10 +1,10 @@
-# Available .DE One-Word Domains (13,792)
+# Available .DE One-Word Domains (4,246)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C792%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C246%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .de one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,792 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,246 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,792 domains · **Median ask:** $7.51 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 4,246 domains · **Median ask:** $6.77 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/de`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| there.de    | resell    | —         | —             | high           | low    | 5      | —         |
-| spiral.de   | resell    | —         | —             | high           | low    | 6      | —         |
-| pity.de     | resell    | —         | —             | high           | low    | 4      | —         |
-| slope.de    | resell    | —         | —             | high           | low    | 5      | —         |
-| adios.de    | resell    | —         | —             | high           | low    | 5      | —         |
-| praise.de   | resell    | —         | —             | high           | low    | 6      | —         |
-| dedicate.de | resell    | —         | —             | high           | low    | 8      | —         |
-| uber.de     | resell    | —         | —             | high           | high   | 4      | —         |
-| invalid.de  | resell    | —         | —             | high           | high   | 7      | —         |
-| cxxv.de     | available | $5.99     | $5.99         | low            | low    | 4      | namesilo  |
-| aid.de      | resell    | —         | —             | medium         | low    | 3      | —         |
-| abaft.de    | available | $5.99     | $5.99         | low            | low    | 5      | namesilo  |
-| fly.de      | resell    | —         | —             | high           | low    | 3      | —         |
-| acned.de    | available | $6.98     | $9.88         | low            | low    | 5      | namecheap |
-| acid.de     | resell    | —         | —             | low            | low    | 4      | —         |
-| algid.de    | available | $5.99     | $5.99         | low            | low    | 5      | namesilo  |
-| acne.de     | resell    | —         | —             | low            | low    | 4      | —         |
-| balky.de    | available | $19.99    | $19.99        | medium         | low    | 5      | name.com  |
-| alky.de     | resell    | —         | —             | medium         | low    | 4      | —         |
-| clxxv.de    | available | $5.99     | $5.99         | low            | low    | 5      | namesilo  |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| clxv.de  | available | $5.99     | $5.99         | medium         | low    | 4      | namesilo  |
+| aid.de   | resell    | —         | —             | high           | low    | 3      | —         |
+| cxlv.de  | available | $5.99     | $5.99         | medium         | low    | 4      | namesilo  |
+| org.de   | resell    | —         | —             | high           | medium | 3      | —         |
+| cxxv.de  | available | $5.99     | $5.99         | medium         | low    | 4      | namesilo  |
+| acid.de  | resell    | —         | —             | high           | low    | 4      | —         |
+| abaft.de | available | $5.99     | $5.99         | low            | low    | 5      | namesilo  |
+| acne.de  | resell    | —         | —             | high           | low    | 4      | —         |
+| acerb.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| acre.de  | resell    | —         | —             | high           | low    | 4      | —         |
+| acned.de | available | $6.98     | $9.88         | low            | low    | 5      | namecheap |
+| alky.de  | resell    | —         | —             | medium         | low    | 4      | —         |
+| algid.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| arab.de  | resell    | —         | —             | high           | low    | 4      | —         |
+| arced.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| arid.de  | resell    | —         | —             | medium         | low    | 4      | —         |
+| azoic.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| aunt.de  | resell    | —         | —             | high           | high   | 4      | —         |
+| balky.de | available | $19.99    | $19.99        | low            | low    | 5      | name.com  |
+| baby.de  | resell    | —         | —             | high           | low    | 4      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,792 live domains                        |
+| 1,000-row public sample | 4,246 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
