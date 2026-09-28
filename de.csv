@@ -20,7 +20,7 @@ fd32c405-79c4-4b14-8b98-0cb852290d08,wanly.de,available,5.99,5.99,low,low,5,name
 73ef54dc-cf4b-4315-81e6-d173b364270f,satiated.de,resell,,,medium,low,8,,,,26/09/2026 08:49
 da9cd611-6dad-4fa4-827e-dce8d0d02b75,partitioned.de,available,5.98,9.88,low,low,11,namecheap,,,18/09/2026 12:14
 4cc0b0c6-a466-40fb-b5a5-b7ef0ab8ed5a,latticed.de,available,5.99,5.99,medium,low,8,namesilo,,,22/08/2026 08:06
-5c2ac920-d9a5-474b-a9c5-77c47885fed7,mesolithic.de,available,6.98,9.88,high,low,10,namecheap,,,24/08/2026 21:17
+5c2ac920-d9a5-474b-a9c5-77c47885fed7,mesolithic.de,available,6.98,9.88,medium,low,10,namecheap,,,24/08/2026 21:17
 f64a61ad-e32f-4e78-a549-e06fefe740b7,invertible.de,resell,,,medium,low,10,,,,26/09/2026 06:56
 ea53d51a-67e8-4620-9dff-a9657afc511b,tentacular.de,available,5.99,5.99,medium,low,10,namesilo,,,11/09/2026 11:35
 bd9a72f9-4a94-435c-894c-d0110544bb39,demoted.de,available,5.99,5.99,low,low,7,namesilo,,,21/09/2026 05:02
@@ -29,10 +29,12 @@ bd9a72f9-4a94-435c-894c-d0110544bb39,demoted.de,available,5.99,5.99,low,low,7,na
 db6535be-bf81-4417-82d1-222a90547e02,shrinkable.de,available,5.99,5.99,high,medium,10,namesilo,,,10/09/2026 06:57
 6499b391-596a-47f9-980d-62b4d08549fb,unkept.de,available,5.99,5.99,low,low,6,namesilo,,,12/09/2026 14:09
 b96f169f-90bd-4f61-ba39-e16d3945794d,straggling.de,available,5.99,5.99,high,medium,10,namesilo,,,09/09/2026 10:03
+e692188d-5d0d-4114-98c9-6ea814406c9c,tomb.de,resell,,,medium,low,4,,,,27/09/2026 16:05
 97fd4cbd-7d9a-46b3-a9aa-cc2d31867120,snuggled.de,available,5.99,5.99,medium,low,8,namesilo,,,03/09/2026 15:48
 cef061da-53d9-4f2e-9481-9febcdacf07d,uneventful.de,available,5.99,5.99,medium,low,10,namesilo,,,12/09/2026 09:21
 f6ce12fb-618b-4545-9602-84b76ebab341,anosmia.de,available,5.99,5.99,medium,low,7,namesilo,,,19/09/2026 11:51
 d6653fb8-2498-4bdc-a43d-ec6736e466aa,avellan.de,available,5.99,5.99,medium,low,7,namesilo,,,07/08/2026 22:24
+b808b691-699a-4b0e-bb25-54416bf51263,carlyle.de,resell,,,medium,low,7,,,,28/09/2026 02:01
 f5d0fc2f-fb38-4a7f-b061-44ed301cf9b5,curvey.de,resell,,,medium,low,6,,,,26/09/2026 05:23
 3b163627-33a5-4520-8cb4-7ec62da6fa65,judgement.de,resell,,,high,low,9,,,,26/09/2026 07:02
 c0312e82-9ca9-421c-a1a8-73c917a03a5a,bedbug.de,resell,,,medium,low,6,,,,26/09/2026 04:19
@@ -63,8 +65,9 @@ d8ab7fe3-2f87-40cd-b471-88a042c0f8bf,brutish.de,resell,,,low,low,7,,,,26/09/2026
 8d92ead5-7987-469d-af78-935dbb1432b7,athabascan.de,available,5.98,9.88,medium,low,10,namecheap,,,20/09/2026 20:23
 07d323e7-0a83-464f-85ee-d9e36b5c364c,odorous.de,available,5.99,5.99,medium,low,7,namesilo,,,04/09/2026 00:54
 5bbd4d51-7768-4130-bd79-a8bb29f995dd,pillared.de,available,6.98,9.88,high,medium,8,namecheap,,,08/09/2026 19:41
-b02b14b0-36c8-41bc-951c-7d996b602e3b,twinned.de,resell,,,high,low,7,,,,26/09/2026 09:49
+b02b14b0-36c8-41bc-951c-7d996b602e3b,twinned.de,resell,,,medium,low,7,,,,26/09/2026 09:49
 9aded3f6-f88c-4acb-9dc1-342243c6cb62,triploid.de,available,6.98,9.88,medium,low,8,namecheap,,,11/09/2026 20:10
+54e31ee6-9862-4ecf-a669-b8b68d510482,preacher.de,resell,,,medium,low,8,,,,27/09/2026 15:23
 1594f8bc-0a2a-4bf9-929f-36f1c8983de3,worrying.de,resell,,,medium,low,8,,,,26/09/2026 10:14
 e8eef032-ea88-44f3-ac21-e24ab3a6d95f,inutile.de,resell,,,medium,low,7,,,,26/09/2026 06:56
 e76e7197-b0c1-44ef-bf35-3ecaf8ce9f18,sparsely.de,available,5.99,5.99,medium,low,8,namesilo,,,16/09/2026 05:55
@@ -79,13 +82,14 @@ f7889fdb-469e-4f46-abe1-c872a1ac31c5,apologue.de,available,5.99,5.99,medium,low,
 cb2fdf3d-e3c0-4b20-9ad0-88b7f4728b43,berkshires.de,available,5.99,5.99,medium,low,10,namesilo,,,23/09/2026 09:35
 cb64ea09-f5b0-4976-9e31-5fab4902776b,absurdly.de,available,5.99,5.99,medium,low,8,namesilo,,,13/09/2026 16:46
 5b2a4fea-90bb-4f4c-b7ab-ecd309b31335,bigara.de,available,5.98,9.88,medium,low,8,namecheap,,,23/09/2026 15:03
-1acb498a-0213-49e3-a312-d7994a832e54,unscathed.de,available,5.99,5.99,high,low,9,namesilo,,,12/09/2026 12:03
+1acb498a-0213-49e3-a312-d7994a832e54,unscathed.de,available,5.99,5.99,medium,low,9,namesilo,,,12/09/2026 12:03
 4d40422e-a845-41ef-a27e-05383189bd0d,lukewarm.de,available,5.99,5.99,medium,low,8,namesilo,,,20/08/2026 22:43
 c2d9f488-d261-4882-af41-42d037852b2f,natty.de,resell,,,medium,low,5,,,,26/09/2026 07:43
 8077850e-34e8-4267-849a-f2d332f9a209,auklet.de,available,5.99,5.99,medium,low,6,namesilo,,,21/09/2026 04:08
-d6f31e3a-1121-4036-968f-abb024f5a3e0,puffy.de,resell,,,high,low,5,,,,26/09/2026 08:24
+d6f31e3a-1121-4036-968f-abb024f5a3e0,puffy.de,resell,,,medium,low,5,,,,26/09/2026 08:24
 db52e0bd-d832-4fd6-90b2-ba5b578fface,soused.de,available,6.98,9.88,low,low,6,namecheap,,,09/08/2026 16:07
 61ccc2f0-83a6-4745-a33c-918ef12d2e06,telescoped.de,available,5.99,5.99,medium,low,10,namesilo,,,11/09/2026 10:22
+06e76050-19dd-4816-9644-3b92ac656253,karachi.de,resell,,,high,low,7,,,,28/09/2026 02:13
 3696b13d-de9d-431f-95b9-d570e99b8d2c,searches.de,resell,,,medium,low,8,,,,26/09/2026 08:53
 7fbda9a9-8af1-49a4-9462-44b45e80ed6e,ungodly.de,available,5.99,5.99,medium,low,7,namesilo,,,22/08/2026 05:29
 26cf6269-1329-4ad4-b391-65ed138942d3,distaste.de,available,5.98,9.88,medium,low,8,namecheap,,,19/09/2026 14:55
@@ -200,7 +204,7 @@ c9acd480-de0e-436b-9000-bc289525b73f,riskily.de,available,5.99,5.99,low,low,7,na
 76445010-2819-48b1-ab03-2a9003b83422,deducible.de,available,5.99,5.99,medium,low,9,namesilo,,,13/08/2026 22:25
 8516eba1-0bdc-40b5-8b18-8706bbe20a12,titivate.de,available,5.99,5.99,medium,low,8,namesilo,,,10/09/2026 16:59
 e6ca9c2a-d284-4e24-8607-730250a0a8e8,tortious.de,available,6.98,9.88,medium,low,8,namecheap,,,11/09/2026 17:59
-b5f2ac87-8720-411b-9899-1f8d9166dc58,alinement.de,available,5.98,9.88,high,low,9,namecheap,,,18/09/2026 07:48
+b5f2ac87-8720-411b-9899-1f8d9166dc58,alinement.de,available,5.98,9.88,medium,low,9,namecheap,,,18/09/2026 07:48
 06ed069d-e1ee-426e-9e38-49b50016afd7,ribbons.de,resell,,,medium,low,7,,,,26/09/2026 08:40
 cb8c4a63-dc14-4c8a-bd94-ccadf5059c6b,pinchbeck.de,available,5.99,5.99,high,medium,9,namesilo,,,08/09/2026 19:43
 ad607ecf-fe9f-4336-a052-43ff0e99fc6f,circuitous.de,available,5.99,5.99,medium,low,10,namesilo,,,12/08/2026 08:18
@@ -213,7 +217,7 @@ c3a5a953-58f5-498d-9672-a6d4d1ebbcf5,astylar.de,available,5.99,5.99,medium,low,7
 286ff993-0ae5-4b8e-bc29-ac154b4febac,nonporous.de,available,6.98,9.88,medium,low,9,namecheap,,,03/09/2026 20:18
 c2344fdc-f2ad-4118-a4cf-90dece908044,anhydrous.de,available,5.99,5.99,medium,low,9,namesilo,,,
 fc5be173-ceca-47c9-9086-f86612c4fea0,biotite.de,available,5.98,9.88,medium,low,7,namecheap,,,23/09/2026 19:13
-2edf6bb4-6b66-47b6-9e0c-f6abf928e2cd,neglect.de,resell,,,high,low,7,,,,26/09/2026 07:44
+2edf6bb4-6b66-47b6-9e0c-f6abf928e2cd,neglect.de,resell,,,medium,low,7,,,,26/09/2026 07:44
 2f5ba50c-7447-4001-b5fa-ef91d1efa104,sheeplike.de,available,5.99,5.99,high,medium,9,namesilo,,,10/09/2026 06:18
 e9ca8ce8-d261-4c9c-9c85-ab175c184bcf,uncontrollable.de,available,19.99,19.99,medium,low,14,name.com,,,
 ba10b47e-77a7-4a0f-b483-9ff7af14ad7c,misery.de,resell,,,medium,low,6,,,,27/09/2026 04:46
@@ -241,6 +245,7 @@ c0771c92-298a-4666-aa68-bb6ad738af37,communism.de,resell,,,high,low,9,,,,26/09/2
 5b9a6286-65ae-48d2-bacf-c4ad2c2290ec,subalpine.de,available,5.99,5.99,medium,low,9,namesilo,,,
 c4ac4373-16e6-49f0-9d87-79935b262ca5,puzzlement.de,available,5.99,5.99,medium,low,10,namesilo,,,21/09/2026 17:39
 71d5b0aa-c326-46b1-bcf6-e8d385dbedec,merited.de,available,5.99,5.99,medium,low,7,namesilo,,,14/08/2026 03:22
+666afc07-c0d0-48a7-aed8-14b203cfac56,zack.de,resell,,,high,low,4,,,,27/09/2026 18:11
 e0c83378-5dc8-43a4-b8fd-c32ca89bf77e,ramate.de,available,5.99,5.99,low,low,6,namesilo,,,11/08/2026 02:17
 2908b2a6-63c8-4045-8680-95935f495380,antiblack.de,available,5.99,5.99,low,low,9,namesilo,,,
 234aaf18-1a4e-4e79-8fdb-3c1d4c20578c,fuckster.de,available,19.99,19.99,low,low,8,name.com,,,
@@ -255,6 +260,7 @@ b352ec78-276f-4144-9d1a-6017c7c53bbd,archerfish.de,available,5.99,5.99,medium,lo
 ca0bc52c-bb19-4bae-93f8-95eae0dc6424,starchy.de,available,5.99,5.99,medium,low,7,namesilo,,,11/08/2026 07:29
 0136bfa4-efab-43e3-ba91-5572f4d20ecf,shoat.de,available,5.99,5.99,high,medium,5,namesilo,,,08/09/2026 19:35
 fa1b57b8-d832-4f28-9d2c-76da4b1a9fff,nicene.de,available,5.99,5.99,medium,low,6,namesilo,,,03/09/2026 17:01
+1a1c03e9-3238-4570-af60-fe3daca27b44,examination.de,resell,,,high,low,11,,,,27/09/2026 21:26
 ccfcaf2f-bb96-479d-b21a-31d8bb04b366,eminently.de,available,5.99,5.99,medium,low,9,namesilo,,,14/09/2026 15:19
 0cf08bcf-aa8b-46c7-86f9-c0de2f79dbb2,destitute.de,resell,,,medium,low,9,,,,26/09/2026 05:32
 89727229-8833-4037-b0ea-142baf673492,abettal.de,available,5.99,5.99,low,low,7,namesilo,,,16/09/2026 15:18
@@ -278,7 +284,7 @@ e5661a35-25a6-4408-a399-b86d05e0f262,bicuspid.de,available,5.99,5.99,medium,low,
 e920b7b1-2119-4991-ab4c-4e51de71f972,deterrent.de,available,5.99,5.99,medium,low,9,namesilo,,,14/08/2026 04:48
 5a347a36-7d07-42b9-8c08-d8961fc28251,catoptric.de,available,5.99,5.99,medium,low,9,namesilo,,,11/08/2026 22:12
 913c7edb-44b8-45b3-b1fa-f8d4857e5026,debauched.de,available,19.99,19.99,low,low,9,name.com,,,13/08/2026 20:14
-7f018424-e6ed-4391-9fc1-fb5ea64dc9f1,improver.de,resell,,,high,low,8,,,,26/09/2026 06:49
+7f018424-e6ed-4391-9fc1-fb5ea64dc9f1,improver.de,resell,,,medium,low,8,,,,26/09/2026 06:49
 a436adc7-fdc5-407a-9488-b129a153060a,clxxx.de,available,5.99,5.99,medium,low,5,namesilo,,,
 75881694-c476-4fb7-96a0-9350cdbb9b03,sheathed.de,available,5.99,5.99,high,medium,8,namesilo,,,10/09/2026 06:12
 580d3676-8923-426e-a116-3737d5d9558b,pochard.de,available,5.98,9.88,medium,low,7,namecheap,,,21/09/2026 10:48
@@ -321,7 +327,7 @@ dd7d2b9e-1e08-4ab5-9431-b4a3f6077092,unsmooth.de,available,6.98,9.88,high,medium
 1ddbdaea-56ef-4c9f-afab-a8f5a6e24383,cytolytic.de,available,19.99,19.99,medium,low,9,name.com,,,13/08/2026 14:42
 0b8a8874-1ac1-41ea-b467-53e74d1ae173,honorary.de,resell,,,high,low,8,,,,26/09/2026 06:43
 269adf1e-624b-4fff-aa63-59c1dfd15ec8,iodized.de,available,5.99,5.99,medium,low,7,namesilo,,,22/08/2026 09:18
-8b05eaf6-29d9-43bc-b4f1-7e75ad069a9a,anodic.de,available,5.99,5.99,high,low,6,namesilo,,,
+8b05eaf6-29d9-43bc-b4f1-7e75ad069a9a,anodic.de,available,5.99,5.99,medium,low,6,namesilo,,,
 52dd45e4-646d-49e2-88c3-eb638ab2ba8c,microwave.de,resell,,,high,low,9,,,,26/09/2026 07:32
 059f3233-a204-4111-9858-b918cc494aa8,slovenly.de,available,5.99,5.99,low,low,8,namesilo,,,18/08/2026 16:55
 b10d5c6d-54a4-4766-a1b4-535334505e7b,abdominous.de,available,5.99,5.99,medium,low,10,namesilo,,,
@@ -345,6 +351,7 @@ cec10c1d-093c-4747-bbd3-307d4adab0d2,babbling.de,available,5.99,5.99,high,low,8,
 4ec0e04a-1bff-45f8-8317-b4ee10adda2d,vermicular.de,available,5.99,5.99,low,low,10,namesilo,,,13/09/2026 02:27
 217a56da-afec-4833-88e9-e7ee4a17b26b,popish.de,available,5.99,5.99,medium,low,6,namesilo,,,05/09/2026 01:32
 5c330eda-3013-48c6-b5f3-802174846237,witless.de,available,6.98,9.88,medium,low,7,namecheap,,,03/09/2026 17:49
+df6ff43a-d930-4d11-9966-9fea963c4db1,pledge.de,resell,,,high,low,6,,,,27/09/2026 15:17
 78923bf1-5a93-4bdf-b4f0-13c8b9da4da3,sandhopper.de,available,5.99,5.99,low,low,10,namesilo,,,22/09/2026 18:44
 56b9b910-29ec-4725-8003-ccdf6d63e6fa,sensuous.de,resell,,,medium,low,8,,,,26/09/2026 08:55
 c69d0e7d-366a-41ae-a6c3-e49825dc5f73,bedroll.de,available,5.99,5.99,medium,low,7,namesilo,,,22/09/2026 23:33
@@ -391,9 +398,9 @@ b1e9965f-a0a5-48fb-be42-ebc41d492993,liberian.de,available,5.99,5.99,medium,low,
 ddc7c3cb-f8cf-4454-a0e1-f01a73b942e3,surgeon.de,resell,,,high,low,7,,,,26/09/2026 09:26
 100c7c3f-2357-4aaf-8be2-9aac5baa47d5,eighteenth.de,available,5.99,5.99,high,low,10,namesilo,,,
 1e86e787-cc96-4a1f-8201-c9637353b67b,client.de,resell,,,high,low,6,,,,26/09/2026 04:59
-58973610-569c-4d03-b7e6-8678dfa9e7f0,hereditary.de,resell,,,high,low,10,,,,26/09/2026 06:38
+58973610-569c-4d03-b7e6-8678dfa9e7f0,hereditary.de,resell,,,medium,low,10,,,,26/09/2026 06:38
 6430020f-1e6e-4125-930e-9ec0e7374d11,wifelike.de,available,5.99,5.99,medium,low,8,namesilo,,,13/09/2026 00:29
-c89ccd2e-b586-4e36-b0f4-adc0a50aa4c0,joyously.de,available,6.98,9.88,high,low,8,namecheap,,,14/09/2026 21:30
+c89ccd2e-b586-4e36-b0f4-adc0a50aa4c0,joyously.de,available,6.98,9.88,medium,low,8,namecheap,,,14/09/2026 21:30
 1f1e2466-5dea-4796-943e-8d6c96db2000,necessary.de,resell,,,high,low,9,,,,26/09/2026 07:44
 b72ce31c-93ea-4ab6-9ce9-7aecb2474b25,retraction.de,available,6.98,9.88,medium,low,10,namecheap,,,16/09/2026 15:59
 d1f70445-7e71-4e9a-a691-43b4a3ab7da0,mancunian.de,available,5.99,5.99,medium,low,9,namesilo,,,24/08/2026 14:36
@@ -411,7 +418,8 @@ bb64aa68-1c8e-4929-8d5b-90607e3d9f85,aphis.de,available,5.99,5.99,medium,low,5,n
 e9f7871a-1e72-44ec-8639-3f940b5b345e,achromic.de,available,5.99,5.99,low,low,8,namesilo,,,
 b1401623-d559-47a8-96df-aa21f7a42ad7,obscenity.de,resell,,,medium,low,9,,,,26/09/2026 07:51
 9e1d5f18-407d-4105-942e-55c8e3f021a1,frontward.de,available,5.99,5.99,medium,low,9,namesilo,,,18/08/2026 12:50
-876ad354-fc47-4be9-bcfd-4471d15ccef3,brushed.de,resell,,,high,low,7,,,,26/09/2026 04:38
+876ad354-fc47-4be9-bcfd-4471d15ccef3,brushed.de,resell,,,medium,low,7,,,,26/09/2026 04:38
+340d9240-3227-49bd-b423-51e474a9bbe9,israelites.de,resell,,,high,low,10,,,,27/09/2026 13:59
 9a92ff1f-b38b-48f4-8078-472f1ab51acc,fatah.de,resell,,,medium,low,5,,,,26/09/2026 06:02
 f87ad403-7dfe-46ea-8796-6f3db476bc14,peevish.de,available,5.99,5.99,medium,low,7,namesilo,,,22/08/2026 10:21
 6bc84d81-d14a-4bfe-9452-8dd021cd90f3,unhelpful.de,available,5.99,5.99,medium,low,9,namesilo,,,12/09/2026 12:26
@@ -436,7 +444,7 @@ a54b53b7-970c-4132-b692-7ebbaedd09e5,prefaded.de,available,5.99,5.99,high,medium
 fa47113e-48d7-4c6e-a149-8d32892a81bb,ninepenny.de,available,5.99,5.99,medium,low,9,namesilo,,,03/09/2026 17:37
 078f8e49-15b6-441a-a08e-db2c859de018,fittingly.de,available,5.99,5.99,medium,low,9,namesilo,,,13/09/2026 20:32
 92215514-be9e-4ad6-8653-65b76f17161d,noon.de,resell,,,high,low,4,,,,26/09/2026 07:48
-9e6ec5ab-dd7f-45bd-ba1e-f206458a550d,suici.de,resell,,,high,low,7,,,,26/09/2026 09:23
+9e6ec5ab-dd7f-45bd-ba1e-f206458a550d,suici.de,resell,,,medium,low,7,,,,26/09/2026 09:23
 02f3ec06-cb1e-4504-95f9-5faa4ee8c2be,desmond.de,resell,,,high,low,7,,,,26/09/2026 05:31
 8ede3237-31da-44a4-b597-2ba206dc9e29,hardbound.de,available,5.99,5.99,high,low,9,namesilo,,,21/08/2026 00:42
 62af191a-6af5-4435-bd02-c4bc1ee822d9,digitally.de,resell,,,high,low,9,,,,26/09/2026 05:34
@@ -444,9 +452,10 @@ fa47113e-48d7-4c6e-a149-8d32892a81bb,ninepenny.de,available,5.99,5.99,medium,low
 2cbcfd90-0b56-41b4-b99f-84d83e7d4d08,pettily.de,available,5.99,5.99,low,low,7,namesilo,,,15/09/2026 19:44
 2c4419b0-006b-4b89-9472-03f7d6128ef6,ethnologic.de,resell,,,high,low,10,,,,26/09/2026 05:54
 e6dfceba-f54c-4369-9b9e-dfdb765f00d7,parotid.de,available,5.99,5.99,medium,low,7,namesilo,,,08/09/2026 01:50
+c401a9a6-d7f4-4ccf-874a-01fb6982d2ed,gina.de,resell,,,medium,low,4,,,,27/09/2026 17:32
 99ddcce6-4dbb-417a-a591-750e40322ca4,unassured.de,available,5.99,5.99,low,low,9,namesilo,,,12/09/2026 01:14
 90f1f698-c30f-4d3f-b64b-dd6dda079855,engorge.de,available,5.99,5.99,medium,low,7,namesilo,,,23/09/2026 17:25
-3c979e1e-652f-4bbb-9dce-93fe906c1e55,assigning.de,available,5.99,5.99,high,low,9,namesilo,,,20/09/2026 16:26
+3c979e1e-652f-4bbb-9dce-93fe906c1e55,assigning.de,available,5.99,5.99,medium,low,9,namesilo,,,20/09/2026 16:26
 7284d867-06c7-4026-9552-9f375acfa407,nonaligned.de,available,5.99,5.99,medium,low,10,namesilo,,,03/09/2026 18:44
 208b8f6c-a3da-47a4-b8f3-ef873d5cbcee,diclinous.de,available,5.99,5.99,low,low,9,namesilo,,,14/08/2026 06:34
 7f939c4f-42fb-44df-aa57-c0ad5128782f,anecdotist.de,available,5.99,5.99,medium,low,10,namesilo,,,19/09/2026 05:08
@@ -455,7 +464,7 @@ afeebc99-9b7c-486a-82b8-60831317de9d,nuprin.de,available,5.99,5.99,medium,low,6,
 2ac2c747-87b7-421c-8659-fdd26d5c4e3b,learner.de,resell,,,high,low,7,,,,26/09/2026 07:10
 73815b5e-546b-49d2-a9bf-0930f7859ec3,headed.de,resell,,,medium,low,6,,,,26/09/2026 06:36
 6463e679-56a9-400a-a3e1-687a5909b2c8,adoptee.de,available,5.99,5.99,medium,low,7,namesilo,,,17/09/2026 09:39
-f703340b-b36d-49db-a7a4-d88f29e9beac,tanned.de,resell,,,high,low,6,,,,26/09/2026 09:30
+f703340b-b36d-49db-a7a4-d88f29e9beac,tanned.de,resell,,,medium,low,6,,,,26/09/2026 09:30
 9311f94d-9591-4291-91e1-ab415c66ac14,miserly.de,available,5.99,5.99,medium,low,7,namesilo,,,24/08/2026 23:45
 8a2ec5fa-d963-4299-8545-4c9734570f27,chancy.de,resell,,,medium,low,6,,,,26/09/2026 04:51
 993c42f8-156f-447a-b5f5-d5b31908e005,sloshed.de,available,5.99,5.99,low,low,7,namesilo,,,09/08/2026 15:48
@@ -523,7 +532,7 @@ c3fb8705-70e3-432c-a963-cbd8453ff653,temptable.de,available,5.99,5.99,medium,low
 845bd303-713e-4a75-8642-4ad5becea212,belonging.de,resell,,,high,low,9,,,,26/09/2026 04:21
 cddde986-4618-4701-a156-2fc108e2db4c,livid.de,resell,,,medium,low,5,,,,26/09/2026 07:16
 6063d16c-8d5b-41ef-93e1-616b4ec8b729,speculation.de,resell,,,medium,low,11,,,,26/09/2026 09:12
-dcd69f9a-5498-4a79-9670-7bbb9f1c5c28,potty.de,resell,,,high,low,5,,,,26/09/2026 08:16
+dcd69f9a-5498-4a79-9670-7bbb9f1c5c28,potty.de,resell,,,medium,low,5,,,,26/09/2026 08:16
 6437194a-0d4f-45c7-abc8-3edd53312711,smudgy.de,available,5.99,5.99,high,medium,6,namesilo,,,10/09/2026 12:17
 b869c244-2d91-4273-b8c4-176360ef9d85,utility.de,resell,,,high,low,7,,,,26/09/2026 09:55
 b200d4b5-8f42-4ad1-bb97-bac51a9c0cff,agnatha.de,available,5.98,9.88,medium,low,7,namecheap,,,17/09/2026 18:31
@@ -585,7 +594,7 @@ c3124af7-56dd-4374-801b-000f41820acb,lovingly.de,resell,,,high,low,8,,,,26/09/20
 911b033a-135d-4112-b33d-5a0e56f8965a,lovable.de,resell,,,high,low,7,,,,26/09/2026 07:19
 2267b531-1ffa-42dc-ae25-810b54ca7d28,frothing.de,available,5.99,5.99,medium,low,8,namesilo,,,18/08/2026 09:42
 8a755933-c467-4c5b-bbdb-aee0c059b1f0,name.de,resell,,,high,high,4,,,,26/09/2026 07:42
-0470a3db-15f1-4209-8022-8b099da82229,slower.de,resell,,,high,low,6,,,,26/09/2026 09:05
+0470a3db-15f1-4209-8022-8b099da82229,slower.de,resell,,,medium,low,6,,,,26/09/2026 09:05
 680df7e7-8f44-4868-9820-ecce48c39549,asinine.de,available,5.99,5.99,low,low,7,namesilo,,,07/08/2026 02:35
 78b8a55c-156b-4353-ac74-08f9ce3201a2,coagulate.de,available,5.99,5.99,medium,low,9,namesilo,,,12/08/2026 13:27
 b3de69a2-f2d9-4e6f-bca7-f56487c22fd4,unseeable.de,available,5.99,5.99,medium,low,9,namesilo,,,22/08/2026 09:08
@@ -600,7 +609,7 @@ c384a5ea-492b-48e0-979c-0c69cabdf4a7,winged.de,resell,,,high,low,6,,,,26/09/2026
 5cc28130-8aa2-47a4-b228-f1bab30c1f41,salvadoran.de,available,6.98,9.88,high,medium,10,namecheap,,,09/09/2026 21:01
 5785a3d2-d959-42eb-b67e-f8d2197607dc,nimiety.de,available,5.99,5.99,low,low,7,namesilo,,,17/08/2026 16:13
 221d1a0c-ea73-4bf6-96dc-916b26da744b,bothersome.de,available,5.99,5.99,medium,low,10,namesilo,,,
-5aa31684-48b5-46ed-a57d-829290d9cf5d,polychrome.de,resell,,,high,low,10,,,,26/09/2026 08:14
+5aa31684-48b5-46ed-a57d-829290d9cf5d,polychrome.de,resell,,,medium,low,10,,,,26/09/2026 08:14
 b6534104-d035-4a1f-a822-e3236234734a,cislunar.de,resell,,,medium,low,8,,,,26/09/2026 04:57
 170aab34-4cec-4836-bc1a-b0d99716347f,affairs.de,resell,,,high,low,7,,,,26/09/2026 01:25
 3734a221-f7f3-4977-91e4-619a0e778c89,snobbish.de,resell,,,medium,low,8,,,,26/09/2026 09:07
@@ -614,13 +623,13 @@ ddadfdf9-5dea-4f55-a507-3b719e061944,ashcan.de,available,5.99,5.99,medium,low,6,
 01df5815-8901-4e14-b5ba-a0b1e7dae34e,essene.de,available,5.99,5.99,medium,low,6,namesilo,,,17/08/2026 13:19
 1ff521f7-49a9-4e40-9681-32e4fd343d97,trilled.de,available,6.98,9.88,medium,low,7,namecheap,,,09/09/2026 18:19
 17109705-f68a-4a0f-bc1b-fea4e39b2a18,habited.de,available,6.98,9.88,medium,low,7,namecheap,,,20/08/2026 21:27
-4b33f85c-81a6-4796-a535-154b751ed0f9,suicide.de,resell,,,high,low,7,,,,26/09/2026 09:23
+4b33f85c-81a6-4796-a535-154b751ed0f9,suicide.de,resell,,,medium,low,7,,,,26/09/2026 09:23
 00d0064d-961c-4f75-afaf-69a33991fd38,substitute.de,resell,,,high,low,10,,,,26/09/2026 09:23
 fac427bb-c7fa-464a-99d5-0100d23d2a70,muggy.de,resell,,,medium,low,5,,,,26/09/2026 07:40
 67a5fd52-0fb4-4294-90e9-0879457b2758,sickening.de,resell,,,medium,low,9,,,,26/09/2026 09:01
-2bb34a7f-2a17-44f6-805b-b529c05cb0d9,deeper.de,resell,,,high,low,6,,,,26/09/2026 05:28
+2bb34a7f-2a17-44f6-805b-b529c05cb0d9,deeper.de,resell,,,medium,low,6,,,,26/09/2026 05:28
 d2a8fc85-bb78-45e4-b13f-a4ab8417df3f,cloisonne.de,resell,,,medium,low,9,,,,26/09/2026 05:00
-0157d5a1-e0c6-4e00-b8e6-97e47a756a2a,drain.de,resell,,,high,low,5,,,,26/09/2026 05:40
+0157d5a1-e0c6-4e00-b8e6-97e47a756a2a,drain.de,resell,,,medium,low,5,,,,26/09/2026 05:40
 e2e114de-26a4-4e7d-bc51-9a9e0e8bbfc3,naively.de,available,5.99,5.99,low,low,7,namesilo,,,15/09/2026 16:00
 d4952aa8-7fc4-4ece-9ae1-d0a5b10b67fa,guarantee.de,resell,,,high,low,9,,,,26/09/2026 06:31
 23f1ba28-58bd-4ca2-a320-55fb888cc533,ramose.de,available,5.99,5.99,low,low,6,namesilo,,,11/08/2026 02:14
@@ -642,18 +651,18 @@ e355587c-52c8-4be3-aa27-f5ebaf8f4eb0,handsomely.de,available,5.99,5.99,medium,lo
 5d9f5966-d219-4406-8871-8a8dfa264a8e,calcic.de,available,5.99,5.99,medium,low,6,namesilo,,,11/08/2026 13:49
 8a94d238-8af1-4652-b678-d079f47b2127,dawdling.de,available,5.99,5.99,medium,low,8,namesilo,,,11/09/2026 19:40
 2f23dd4b-8fbb-49cb-843c-17fcb7a4c1a9,bestiality.de,available,5.99,5.99,medium,low,10,namesilo,,,23/09/2026 10:39
-a9c06e64-cdf6-40cb-9648-035d61eabeb2,immensely.de,available,5.99,5.99,high,low,9,namesilo,,,15/09/2026 01:58
-2fdb0dca-e7f4-4c60-b806-4700f870cbdb,written.de,resell,,,high,low,7,,,,26/09/2026 10:14
-378cd10e-b531-4278-b7f3-48b9242bbc19,nodding.de,resell,,,high,low,7,,,,26/09/2026 07:47
+a9c06e64-cdf6-40cb-9648-035d61eabeb2,immensely.de,available,5.99,5.99,medium,low,9,namesilo,,,15/09/2026 01:58
+2fdb0dca-e7f4-4c60-b806-4700f870cbdb,written.de,resell,,,high,low,7,,,,27/09/2026 18:44
+378cd10e-b531-4278-b7f3-48b9242bbc19,nodding.de,resell,,,medium,low,7,,,,26/09/2026 07:47
 089b0a7f-d420-4f83-a4dd-daf353eca78f,letup.de,resell,,,medium,low,6,,,,26/09/2026 07:13
-b3d0c702-1d42-409d-98fd-629784a54fc6,lately.de,resell,,,high,low,6,,,,26/09/2026 07:08
+b3d0c702-1d42-409d-98fd-629784a54fc6,lately.de,resell,,,medium,low,6,,,,26/09/2026 07:08
 606469b2-0a7c-4e0f-af50-930d91ea160c,acarine.de,available,6.98,9.88,medium,low,7,namecheap,,,16/09/2026 21:33
 4de890ea-2717-456e-b6fe-8e4fb68677ab,aneurism.de,available,5.99,5.99,medium,low,8,namesilo,,,19/09/2026 05:43
 d22752bf-26f2-4d1c-bb86-43c14e8f25ac,tersely.de,available,6.98,9.88,medium,low,7,namecheap,,,16/09/2026 08:13
-c5a5cf78-f8f8-44cf-a35a-1bef9f65d91d,sumatran.de,available,5.99,5.99,high,low,8,namesilo,,,11/09/2026 01:31
+c5a5cf78-f8f8-44cf-a35a-1bef9f65d91d,sumatran.de,available,5.99,5.99,medium,low,8,namesilo,,,11/09/2026 01:31
 c9ff3c77-d387-40fc-961b-281d4caee940,arrears.de,resell,,,medium,low,7,,,,26/09/2026 04:02
 33d62a83-1d0b-4186-a21d-0f944edb1118,sends.de,resell,,,medium,low,5,,,,27/09/2026 03:02
-868a8c1c-09e1-4005-a3be-461993c62e75,abenaki.de,available,5.99,5.99,high,low,7,namesilo,,,
+868a8c1c-09e1-4005-a3be-461993c62e75,abenaki.de,available,5.99,5.99,medium,low,7,namesilo,,,
 e7da0cf9-623b-4cc3-9bdf-e606774cf973,gave.de,resell,,,medium,low,4,,,,26/09/2026 06:20
 415d7b7b-4710-41e1-ac8a-8467c8f53e61,unshaded.de,available,6.98,9.88,low,low,8,namecheap,,,12/09/2026 19:27
 fbfaed76-7f46-4b3a-83ab-9b937a045c37,moderato.de,resell,,,medium,low,8,,,,26/09/2026 07:36
@@ -677,7 +686,7 @@ e0d73fef-eee5-40f4-ac4f-205bbacf5746,antigenic.de,available,6.98,9.88,medium,low
 4fdcae6a-3bc8-4afd-ba89-b02805258e24,agnatic.de,available,5.99,5.99,medium,low,7,namesilo,,,
 e04b19aa-892d-4314-ba5f-258c59cf5c59,rotted.de,resell,,,medium,low,6,,,,26/09/2026 08:44
 5382bf73-d539-4a10-b8dc-af754ee0f975,barreled.de,available,5.99,5.99,medium,low,8,namesilo,,,08/08/2026 20:46
-6ad39bf6-52a0-428a-9a9a-b886690cece3,removed.de,resell,,,high,low,7,,,,26/09/2026 08:36
+6ad39bf6-52a0-428a-9a9a-b886690cece3,removed.de,resell,,,medium,low,7,,,,26/09/2026 08:36
 4c7a052d-adc6-4216-a1f5-316127484a80,inherently.de,available,5.99,5.99,medium,low,10,namesilo,,,15/09/2026 08:20
 25e0135e-4fa8-4c6c-8d07-9dd457ef9727,ritardando.de,available,5.99,5.99,high,medium,10,namesilo,,,09/09/2026 09:54
 2675c93f-14a9-41e6-bc71-4070c97753f8,tasselled.de,available,5.99,5.99,medium,low,9,namesilo,,,11/09/2026 08:58
@@ -691,9 +700,9 @@ bdd724ce-ecf4-4f4e-bcbb-13b07d314559,squatty.de,available,5.99,5.99,low,low,7,na
 d240c6e4-fe76-471d-bea9-2ea771015b01,redundant.de,resell,,,medium,low,9,,,,26/09/2026 08:33
 324e910f-6bf9-4566-b39d-b1bf294b7197,raped.de,resell,,,medium,low,5,,,,26/09/2026 08:29
 8d4790a8-5070-4af0-be9b-b4b0a97a88b7,refrigerator.de,resell,,,high,low,12,,,,26/09/2026 08:34
-2df2613d-a854-4414-a3a1-808dfae18e2b,si.de,resell,,,high,low,4,,,,26/09/2026 09:01
+2df2613d-a854-4414-a3a1-808dfae18e2b,si.de,resell,,,high,low,4,,,,27/09/2026 21:50
 10da7a03-0145-41ae-a945-42d1c39e9454,bathymetry.de,available,5.98,9.88,medium,low,10,namecheap,,,22/09/2026 13:55
-65424006-4fa0-4d19-a7df-4678ef172367,ascendency.de,resell,,,high,low,10,,,,26/09/2026 04:03
+65424006-4fa0-4d19-a7df-4678ef172367,ascendency.de,resell,,,medium,low,10,,,,26/09/2026 04:03
 04c09e10-7969-42ee-951c-d35f22580599,besieged.de,available,5.99,5.99,low,low,8,namesilo,,,09/08/2026 15:25
 3bd1768e-80d8-42e3-bf10-729ac507c255,bionomics.de,resell,,,medium,low,9,,,,26/09/2026 04:26
 28444845-8bd8-4a22-9b39-b7264ab39689,deviant.de,resell,,,high,low,7,,,,26/09/2026 05:32
@@ -710,7 +719,7 @@ c5519b11-9126-49b1-845f-b498e33e886b,realizable.de,available,5.99,5.99,high,low,
 dec34ada-6abf-47d1-9646-33c520d18b96,theyre.de,available,19.99,19.99,medium,low,6,name.com,,,
 30bb19b1-85b0-4c64-90c7-86c6b7e921e5,appreciates.de,available,5.98,9.88,medium,low,11,namecheap,,,20/09/2026 20:35
 8eb7f27b-79ad-4fa2-96b6-f7029cddcb58,vicenary.de,available,5.99,5.99,low,low,8,namesilo,,,13/09/2026 05:21
-a7c8b0b5-afbf-4485-96cc-72fb43ebcf95,arbitrary.de,resell,,,high,low,9,,,,26/09/2026 03:58
+a7c8b0b5-afbf-4485-96cc-72fb43ebcf95,arbitrary.de,resell,,,medium,low,9,,,,26/09/2026 03:58
 217fafed-eaef-4998-ba9b-69174be81c96,alderfly.de,available,5.99,5.99,medium,low,8,namesilo,,,18/09/2026 04:32
 5594b52b-d480-46f4-888b-047dc8baf088,saleable.de,resell,,,high,medium,8,,,,26/09/2026 08:47
 7eb9ebe5-25f6-40f0-a080-0eb1cc7e5e24,encomium.de,available,5.99,5.99,medium,low,8,namesilo,,,05/09/2026 00:40
@@ -792,10 +801,10 @@ ae228ea8-0e89-4be5-a140-25adda775629,socioeconomic.de,available,5.99,5.99,medium
 7a131f2e-fe8e-44c4-8161-8106fe305857,slope.de,resell,,,high,low,5,,,,26/09/2026 09:05
 49e83a02-9244-4b80-a06f-d3332cbedbda,montane.de,resell,,,medium,low,7,,,,26/09/2026 07:37
 2b5f6843-12d9-4eff-96a2-a9bcf0585bca,tauten.de,available,5.99,5.99,medium,low,6,namesilo,,,18/08/2026 05:16
-5baa38ab-dd27-41a7-a2ba-85425a4cb76b,camisole.de,resell,,,high,low,8,,,,26/09/2026 04:43
+5baa38ab-dd27-41a7-a2ba-85425a4cb76b,camisole.de,resell,,,medium,low,8,,,,26/09/2026 04:43
 97411ef4-4a01-419a-b59e-f81aafcd405e,autoerotic.de,available,6.98,9.88,low,low,10,namecheap,,,07/08/2026 20:01
 f5a30cc8-b911-430f-b90c-a9ca9865580c,outbred.de,available,6.98,9.88,medium,low,7,namecheap,,,04/09/2026 19:03
-975f3b82-dd81-4256-a228-0d3f3926baf3,outspread.de,resell,,,high,low,9,,,,26/09/2026 07:58
+975f3b82-dd81-4256-a228-0d3f3926baf3,outspread.de,resell,,,medium,low,9,,,,26/09/2026 07:58
 cb8fdced-9ace-4343-b13c-1ef3de27e2d3,shintoist.de,available,5.99,5.99,high,medium,9,namesilo,,,10/09/2026 06:33
 dedc2b9c-6d4e-48b3-a847-954d0111a9d5,compute.de,resell,,,high,low,7,,,,26/09/2026 05:10
 24b95f3f-00dd-437b-b078-1cbe38943456,salts.de,resell,,,medium,low,5,,,,26/09/2026 08:48
@@ -809,6 +818,7 @@ a3d3e4e1-4ce6-4886-851a-7e6b114fe293,louvered.de,available,5.99,5.99,medium,low,
 80a14ab2-de2b-4091-95c3-d8a67bed8ac9,handiness.de,available,5.99,5.99,medium,low,9,namesilo,,,16/09/2026 22:18
 3f8eef2b-8a16-47ef-91f4-1fd1421e7711,cernuous.de,available,5.99,5.99,medium,low,8,namesilo,,,12/08/2026 00:44
 a38441a2-b125-4511-a484-22347e82f225,crapper.de,available,5.99,5.99,high,medium,7,namesilo,,,09/09/2026 00:52
+307766fa-e5ec-4e92-861b-95e1339eb8a6,herman.de,resell,,,medium,low,6,,,,28/09/2026 02:07
 6db34cbc-63a9-4751-8bd9-111a11b6e1b1,optimally.de,resell,,,medium,low,9,,,,26/09/2026 07:55
 12184ccb-68ee-451b-b0ba-598ba22231a9,unalike.de,available,5.99,5.99,medium,low,7,namesilo,,,12/09/2026 00:26
 38783cc6-f8f7-43ca-89a3-f135608098ef,majuscule.de,available,5.99,5.99,medium,low,9,namesilo,,,24/08/2026 13:26
@@ -836,7 +846,7 @@ dd5e6512-515b-45ba-903f-1b69aa753dbc,endwise.de,available,5.99,5.99,medium,low,7
 2723bff8-fa92-49dd-84f8-5d143fdfd168,vaginal.de,resell,,,medium,low,7,,,,26/09/2026 09:55
 8f686e22-47ca-4bbf-80fc-adc83cfce36d,verbosely.de,available,5.99,5.99,low,low,9,namesilo,,,15/09/2026 12:43
 504917c1-f327-4f01-a700-f3e8abafb18d,baiting.de,resell,,,medium,low,7,,,,26/09/2026 04:13
-698dd09d-ff9a-4082-b80b-03035a054b61,fiscal.de,resell,,,high,low,6,,,,26/09/2026 06:06
+698dd09d-ff9a-4082-b80b-03035a054b61,fiscal.de,resell,,,medium,low,6,,,,26/09/2026 06:06
 675468d9-df32-4579-a211-a13de94bc7f2,backless.de,resell,,,medium,low,8,,,,26/09/2026 04:12
 18e7345d-d2fb-4120-82ef-6851e063a435,predilection.de,available,5.99,5.99,medium,low,12,namesilo,,,
 ba6c6f71-e677-45b3-950c-7e2d62c48ff0,experimentally.de,available,19.99,19.99,medium,low,14,name.com,,,
@@ -847,7 +857,7 @@ dabee476-b557-456b-8c73-e0059fa2969c,forrad.de,available,5.99,5.99,medium,low,6,
 b47b15c7-34c3-4af0-8e58-516b9461ff35,batrachian.de,available,5.99,5.99,low,low,10,namesilo,,,05/08/2026 20:53
 6128e805-1695-454f-8e36-7c1bf3c75171,within.de,resell,,,high,low,6,,,,26/09/2026 10:12
 26aaed88-88ce-490f-a1ba-211b91ada20f,occur.de,resell,,,high,low,5,,,,26/09/2026 07:51
-7f1a87fa-7e81-4deb-acb5-9a925e2befd0,sacculate.de,available,5.99,5.99,high,medium,9,namesilo,,,09/09/2026 20:37
+7f1a87fa-7e81-4deb-acb5-9a925e2befd0,sacculate.de,available,5.99,5.99,medium,medium,9,namesilo,,,09/09/2026 20:37
 6311fc1a-7f5f-4d3f-9131-aa0ea406d64b,creaky.de,available,5.99,5.99,medium,low,6,namesilo,,,06/08/2026 22:59
 ab3a6cb2-b73e-4b72-98e9-c2def2b78815,cenozoic.de,available,5.99,5.99,medium,low,8,namesilo,,,11/08/2026 23:46
 d3a46961-c666-4aad-8c9f-fb19de9abc54,palmatifid.de,available,5.99,5.99,medium,low,10,namesilo,,,05/09/2026 00:03
@@ -860,7 +870,7 @@ d3a46961-c666-4aad-8c9f-fb19de9abc54,palmatifid.de,available,5.99,5.99,medium,lo
 a9164319-6270-455c-8ffe-691e958cd1ac,pours.de,resell,,,low,low,5,,,,26/09/2026 08:16
 6808cc08-6199-44b5-b3ab-33c36d7a3cc8,altawhid.de,available,5.99,5.99,medium,low,9,namesilo,,,18/09/2026 01:07
 cd9290fa-5afd-45be-ab9e-5a13bd139965,personals.de,resell,,,medium,low,9,,,,26/09/2026 08:07
-78be76bf-7757-429d-b1dd-3b3b402bbaaf,adaptor.de,resell,,,high,low,7,,,,26/09/2026 01:22
+78be76bf-7757-429d-b1dd-3b3b402bbaaf,adaptor.de,resell,,,medium,low,7,,,,26/09/2026 01:22
 f12bbbfb-2265-4157-87c7-9409ffa5d4c2,addax.de,resell,,,medium,low,5,,,,26/09/2026 01:22
 eda9f423-ebc3-4930-bcf7-34ea39d75848,unthankful.de,available,5.99,5.99,low,low,10,namesilo,,,11/09/2026 12:29
 2caf6919-55a8-4f27-9026-95473b4765da,arb.de,resell,,,high,low,3,,,,26/09/2026 03:58
@@ -879,11 +889,11 @@ e6970070-9823-460d-804a-6fb1e2e6ef01,turmeric.de,resell,,,high,low,8,,,,26/09/20
 13cf068e-faee-4b87-a90d-d1143bb343a0,revengeful.de,available,5.99,5.99,medium,low,10,namesilo,,,09/09/2026 16:00
 e025b07d-58a1-4fbc-84f6-7c082efd94c5,plenteous.de,available,6.98,9.88,medium,low,9,namecheap,,,08/09/2026 21:08
 0e5edca4-9e7b-4eba-9bb6-ce01b99580c5,franciscan.de,available,5.99,5.99,high,low,10,namesilo,,,18/08/2026 14:06
-608e7b41-b552-4e75-96fc-db375f6a5e11,fijian.de,available,5.99,5.99,high,low,6,namesilo,,,18/08/2026 04:02
+608e7b41-b552-4e75-96fc-db375f6a5e11,fijian.de,available,5.99,5.99,medium,low,6,namesilo,,,18/08/2026 04:02
 3bb1e505-5423-4bc1-8f56-7986d527ce07,roofed.de,resell,,,high,medium,6,,,,26/09/2026 08:44
 0825cc87-c7e5-4b0e-9d09-d58c0c38db26,obadiah.de,available,5.99,5.99,medium,low,7,namesilo,,,16/09/2026 14:40
 809087b3-51d9-4730-ae26-f46da6bc9916,alienable.de,available,5.99,5.99,medium,low,9,namesilo,,,
-c4938006-ade4-4286-be63-005bea2767d4,wines.de,resell,,,high,low,5,,,,26/09/2026 10:10
+c4938006-ade4-4286-be63-005bea2767d4,wines.de,resell,,,medium,low,5,,,,26/09/2026 10:10
 0dae1faf-0953-4dd4-b263-119506a31b3a,recusant.de,available,5.99,5.99,medium,low,8,namesilo,,,14/08/2026 12:28
 9cada0a8-39cc-4306-8464-744ca3b81ecc,neotenous.de,available,5.99,5.99,low,low,9,namesilo,,,03/09/2026 15:33
 d2244e10-7a5e-47a1-9df1-e30974d81951,slatey.de,available,5.99,5.99,medium,low,6,namesilo,,,10/09/2026 10:21
@@ -903,7 +913,7 @@ e0d1afb2-d709-4601-9dda-30e97fc92f09,regally.de,available,5.99,5.99,medium,low,7
 288ffb94-4672-44b2-8e31-ff8fb79bc358,cheeses.de,resell,,,high,low,7,,,,26/09/2026 04:53
 4ed17227-d370-4c7a-b368-f5a95dcd6cc9,readably.de,available,5.99,5.99,medium,low,8,namesilo,,,14/09/2026 11:08
 3254b2a0-0201-4e45-80dd-0e2a98856e09,roughdried.de,available,6.98,9.88,high,medium,10,namecheap,,,09/09/2026 18:59
-0c972ba6-ef28-419e-b281-a729795c3fde,seafaring.de,resell,,,high,low,9,,,,26/09/2026 08:52
+0c972ba6-ef28-419e-b281-a729795c3fde,seafaring.de,resell,,,medium,low,9,,,,26/09/2026 08:52
 a19c1bc0-8712-4f38-a95d-adf70ddc457b,liturgical.de,available,5.99,5.99,medium,low,10,namesilo,,,24/08/2026 07:40
 8e17f443-03c0-4d79-85c7-e88103a43f94,while.de,resell,,,high,low,5,,,,26/09/2026 10:08
 f122e2b8-4d4d-4576-9497-61d231567039,aurorean.de,available,5.99,5.99,medium,low,8,namesilo,,,07/08/2026 18:12
@@ -964,7 +974,7 @@ da9a9702-d739-4ece-b6d1-0767643a9316,footless.de,available,5.99,5.99,medium,low,
 8d12946e-4762-4bdf-a903-fb5025e37e4f,slavonic.de,available,5.99,5.99,high,low,8,namesilo,,,10/09/2026 10:34
 54b8edda-9e32-4a44-8b67-602a2f556ad5,steadying.de,available,5.99,5.99,medium,low,9,namesilo,,,10/09/2026 19:39
 5a660466-7e07-44b3-9d8d-02882b3403b9,assessable.de,available,5.99,5.99,medium,low,10,namesilo,,,07/08/2026 06:04
-f546ec17-dc54-4ef3-8955-e543ccd68ce6,biomass.de,resell,,,high,low,7,,,,26/09/2026 04:26
+f546ec17-dc54-4ef3-8955-e543ccd68ce6,biomass.de,resell,,,medium,low,7,,,,26/09/2026 04:26
 288cccc4-18a8-4c1b-8b8c-5b6754645bf5,binghamton.de,available,5.99,5.99,medium,low,10,namesilo,,,23/09/2026 17:34
 83d736b6-1fc3-42fd-9fba-a2d5335a724d,bey.de,resell,,,medium,low,3,,,,26/09/2026 04:23
 ad2005b6-9ce1-4021-b088-d759a7c07efa,isthmian.de,available,5.99,5.99,medium,low,8,namesilo,,,22/08/2026 11:34
@@ -984,18 +994,8 @@ a1dfc605-ccd2-4719-9825-5e952dd187b9,chivalric.de,available,5.99,5.99,medium,low
 5f4f9351-0fb4-4a35-8e0f-b161b4379ed6,belittling.de,available,5.99,5.99,low,low,10,namesilo,,,09/08/2026 13:10
 674c0a89-fa6f-4d00-977c-ab8c350b27ae,repelling.de,available,5.99,5.99,medium,low,9,namesilo,,,14/08/2026 10:43
 65d0f058-ddd5-406b-8b20-7697f3533019,adored.de,resell,,,high,low,6,,,,26/09/2026 01:23
-62703a7b-b98f-4d1a-b155-97b564d3171d,alleged.de,resell,,,high,low,7,,,,26/09/2026 03:48
+62703a7b-b98f-4d1a-b155-97b564d3171d,alleged.de,resell,,,medium,low,7,,,,26/09/2026 03:48
 20665432-b2c1-4604-9b97-074fb5f6ca95,expressive.de,resell,,,high,low,10,,,,26/09/2026 05:58
 42f10e9b-9ab9-4e64-af23-7d1a9c8b5565,accusal.de,available,5.99,5.99,medium,low,7,namesilo,,,16/09/2026 23:22
 0173a848-bd97-4d8c-a5e3-61a193a19024,junky.de,resell,,,medium,low,5,,,,26/09/2026 07:02
 65120229-4c9b-4143-a0e5-084fcc2750db,fiduciary.de,resell,,,high,low,9,,,,26/09/2026 06:04
-5b84a5c2-387a-4a8e-bafd-d2dbce51b37b,pedagogic.de,available,5.99,5.99,medium,low,9,namesilo,,,08/09/2026 12:15
-4159630d-6d43-417c-a0af-e5018c1df4e7,suspicious.de,resell,,,medium,low,10,,,,26/09/2026 09:26
-0dd201b8-e8da-4a28-b9c6-c1957a37b475,makings.de,resell,,,medium,low,7,,,,26/09/2026 07:24
-97cf808c-1767-4343-95b1-f90f9a329968,engines.de,resell,,,medium,low,7,,,,26/09/2026 05:50
-58e1b7b5-4db3-443f-8bc7-773ddece258b,anhydri.de,resell,,,medium,low,9,,,,26/09/2026 03:53
-9e008a99-572c-46b8-9b64-8b6194fe10ba,nu.de,resell,,,high,low,4,,,,26/09/2026 07:50
-6665f879-6fed-4c9f-8121-48d4b190ee0f,narrowly.de,available,5.99,5.99,medium,low,8,namesilo,,,15/09/2026 16:08
-de2ce2d7-76b2-40e6-b1c4-dcb642ab7228,dominical.de,available,5.99,5.99,medium,low,9,namesilo,,,14/08/2026 15:42
-72847f60-c8b9-4719-b823-6ace277b3b50,uncurbed.de,available,5.99,5.99,medium,low,8,namesilo,,,12/09/2026 04:34
-42c50358-5337-47e7-b431-844e3992ee55,bardolatry.de,available,5.99,5.99,medium,low,10,namesilo,,,22/09/2026 05:17
