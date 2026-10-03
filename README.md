@@ -1,10 +1,10 @@
-# Available .DE One-Word Domains (6,829)
+# Available .DE One-Word Domains (7,233)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C829%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C233%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .de one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **6,829 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **7,233 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 6,829 domains · **Median ask:** $6.37 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 7,233 domains · **Median ask:** $6.28 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/de`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| affinity.de   | resell    | —         | —             | high           | high   | 8      | —         |
-| si.de         | resell    | —         | —             | high           | low    | 4      | —         |
-| payment.de    | resell    | —         | —             | high           | medium | 7      | —         |
-| television.de | resell    | —         | —             | high           | low    | 10     | —         |
-| compute.de    | resell    | —         | —             | high           | low    | 7      | —         |
-| saleable.de   | resell    | —         | —             | high           | medium | 8      | —         |
-| presumable.de | available | $5.99     | $5.99         | high           | medium | 10     | namesilo  |
-| ritardando.de | available | $5.99     | $5.99         | high           | medium | 10     | namesilo  |
-| radiance.de   | resell    | —         | —             | high           | low    | 8      | —         |
-| aphis.de      | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
-| luz.de        | resell    | —         | —             | medium         | low    | 3      | —         |
-| arere.de      | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
-| mbc.de        | resell    | —         | —             | high           | low    | 3      | —         |
-| baulk.de      | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
-| nsf.de        | resell    | —         | —             | high           | low    | 3      | —         |
-| brith.de      | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
-| raf.de        | resell    | —         | —             | high           | low    | 3      | —         |
-| clxxx.de      | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
-| vom.de        | resell    | —         | —             | medium         | low    | 3      | —         |
-| fetid.de      | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aphis.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| luz.de   | resell    | —         | —             | medium         | low    | 3      | —         |
+| arere.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| mbc.de   | resell    | —         | —             | high           | low    | 3      | —         |
+| baulk.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| nsf.de   | resell    | —         | —             | high           | low    | 3      | —         |
+| brith.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| raf.de   | resell    | —         | —             | high           | low    | 3      | —         |
+| clxxx.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| vom.de   | resell    | —         | —             | medium         | low    | 3      | —         |
+| fetid.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| yue.de   | resell    | —         | —             | medium         | low    | 3      | —         |
+| gawky.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| anoa.de  | resell    | —         | —             | medium         | low    | 4      | —         |
+| purau.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| army.de  | resell    | —         | —             | high           | low    | 4      | —         |
+| shoat.de | available | $5.99     | $5.99         | high           | medium | 5      | namesilo  |
+| asad.de  | resell    | —         | —             | medium         | low    | 4      | —         |
+| undue.de | available | $5.99     | $5.99         | medium         | low    | 5      | namesilo  |
+| bare.de  | resell    | —         | —             | high           | low    | 4      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 6,829 live domains                         |
+| 1,000-row public sample | 7,233 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DE One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DE One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
